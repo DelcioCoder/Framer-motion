@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing:border-box
+}
+
+
+body{
+  background-color: hsl(0, 0%, 95%);
+}
+
+.example-button{
+  padding:10px;
+  border:none;
+  background-color:rgb(108, 108, 179);
+  border-radius:10px;
+  color: white;
+  cursor:pointer;
+  font-weight:bold;
+}
